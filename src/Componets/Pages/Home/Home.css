@@ -1,0 +1,52 @@
+/* Estilo base dos cards */
+.card-responsive {
+    max-width: 900px; /* Maior largura no desktop */
+    border-radius: 12px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  /* Imagem */
+  .card-image {
+    object-fit: cover;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+  }
+  
+  /* Texto */
+  .card-text {
+    font-size: 1rem; /* Tamanho padrão */
+    line-height: 1.5;
+    text-align: justify;
+    margin: 0;
+  }
+  
+  /* Ajustes para telas médias */
+  @media (max-width: 768px) {
+    .card-responsive {
+      max-width: 500px; /* Ligeiramente menor no tablet */
+    }
+  
+    .card-text {
+      font-size: 0.95rem; /* Texto um pouco menor */
+    }
+  }
+  
+  /* Ajustes para telas pequenas */
+  @media (max-width: 576px) {
+    .card-responsive {
+      max-width: 100%; /* Ocupa 100% no mobile */
+    }
+  
+    .card-image {
+      height: 200px; /* Reduz altura da imagem */
+    }
+  
+    .card-text {
+      font-size: 0.9rem; /* Texto menor no mobile */
+    }
+  
+    .row.g-0 {
+      flex-direction: column; /* Texto abaixo da imagem no mobile */
+    }
+  }
+  

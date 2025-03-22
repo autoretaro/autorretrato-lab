@@ -1,0 +1,10 @@
+.about {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+.paragraph-about {
+    font-size: 1.5em;
+}

@@ -1,9 +1,9 @@
 import "../Footer/Footer.css";
-import logoPatrocinioOrizonal from "../../assets/img/main/logo-orizontal.png";
-import logoPatrocinioVertical from "../../assets/img/main/logo-vertical.png";
-import logoRedeEparrei from "../../assets/img/main/Rede_eparrei.png";
-import logoEparreiFilmes from "../../assets/img/main/Eparrei_filmes.png";
-import logoKatende from "../../assets/img/main/Logo_katende.png";
+import logoPatrocinioOrizonal from "/img/main/logo-horizontal.png";
+import logoPatrocinioVertical from "/img/main/logo-vertical.png";
+import logoRedeEparrei from "/img/main/Rede_eparrei.png";
+import logoEparreiFilmes from "/img/main/Eparrei_filmes.png";
+import logoKatende from "/img/main/Logo_katende.png";
 
 const textAlt = "Logos Funaate, Ministerio da Cultura, Governo Federal";
 const CreateLogoApoio = ({ imgSrc, alt }) => {

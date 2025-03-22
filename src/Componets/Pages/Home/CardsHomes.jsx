@@ -3,11 +3,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const cardHomeData = [
   {
-    imgSrc: "/src/assets/img/main/EXPOR1.jpeg",
+    imgSrc: "/img/main/EXPOR1.jpeg",
     description: "No dia 14 de dezembro de 2024, ocorreu na comunidade Opalma a exposição e a entrega de certificados da segunda edição do projeto O Autorretrato, no contexto do Laboratório de Fotografia Quilombola. Durante o evento, os jovens participantes apresentaram suas produções fotográficas, que incluíam obras experimentais, conceituais e documentais, abordando temas como identidade e cultura quilombola."
   },
   {
-    imgSrc: "/src/assets/img/main/EXPOR2.jpeg",
+    imgSrc: "/img/main/EXPOR2.jpeg",
     description: "O projeto O Autorretrato está em sua segunda edição e é uma iniciativa de fotografia contemporânea que dá vida ao Laboratório de Fotografia Quilombola. A oficina tem como objetivo formar jovens quilombolas para a produção de fotografias experimentais, conceituais e documentais, ampliando o horizonte artístico nas comunidades quilombolas"
   }
 ];

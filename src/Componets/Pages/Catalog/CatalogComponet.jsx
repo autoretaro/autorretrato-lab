@@ -18,6 +18,15 @@ const cardsData = [
   { imageUrl: "/img/iguape/RayanedeJesus-5.svg", photographer: "Rayane de Jesus", texAlt: "Por do Sol sobre o Rio Paragussu com Crianças tomando baanho" },
   { imageUrl: "/img/iguape/RayanedeJesus-6.svg", photographer: "Rayane de Jesus", texAlt: "Por do Sol sobre Rio Paraguaçu com crinanças tomando banho" },
 
+  { imageUrl: "/img/iguape/JulianaGuimaraes.svg", photographer: "Juliana Guiarães", texAlt: "Menina sentada na Santa Cruz" },
+  { imageUrl: "/img/iguape/JulianaGuimaraes1.svg", photographer: "Juliana Guiarães", texAlt: "Menina sentada em uma canoa emborcada na beira do rio" },
+
+  { imageUrl: "/img/iguape/JulianaGuimaraes-3.svg", photographer: "Juliana Guiarães", texAlt: "Menina sentada na Santa Cruz olhando para o rio" },
+
+  { imageUrl: "/img/iguape/JulianaGuimaraes_4.svg", photographer: "Juliana Guiarães", texAlt: "Rio paraguassu com varias canoas" },
+  { imageUrl: "/img/iguape/JulianaGuimaraes_5.svg", photographer: "Juliana Guiarães", texAlt: "Meninas sentadas olhando para o Rio Paraguassu" },
+  { imageUrl: "/img/iguape/JulianaGuimaraes_6.svg", photographer: "Juliana Guiarães", texAlt: "Meninas na beira do rio" }
+
 
   
 ];

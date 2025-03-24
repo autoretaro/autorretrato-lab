@@ -4,11 +4,12 @@ import Menu from "../../Header/Menu";
 import "../Catalog/Catalog.css";
 
 const cardsData = [
-  { imageUrl: "/img/iguape/FabianoConceição-1.jpg", photographer: "Fabiano Conceição", texAlt: "Imagem de um menino pescando" },
-  { imageUrl: "/img/iguape/FabianoConceição-2.jpg", photographer: "Fabiano Conceição", texAlt: "Imagem de um menino de cabelo curto" },
-  { imageUrl: "/img/iguape/FabianoConceição-3.jpg", photographer: "Fabiano Conceição", texAlt: "Imagem de um menino de cabelo longo" },
-  { imageUrl: "/img/iguape/FabianoConceição-4.jpg", photographer: "Fabiano Conceição", texAlt: "Imagem de um menino de cabelo curto" },
-  { imageUrl: "/img/iguape/FernandadeJesus-6.jpg", photographer: "Fabiano Conceição", texAlt: "Imagem de um menino de cabelo longo" }
+  { imageUrl: "/img/iguape/FabianoConceição-1.svg", photographer: "Fabiano Conceição", texAlt: "Imagem de um menino pescando" },
+  { imageUrl: "/img/iguape/FabianoConceição-2.svg", photographer: "Fabiano Conceição", texAlt: "Imagem de um menino de cabelo curto" },
+  { imageUrl: "/img/iguape/FabianoConceição-3.svg", photographer: "Fabiano Conceição", texAlt: "Imagem de um menino de cabelo longo" },
+  { imageUrl: "/img/iguape/FabianoConceição-4.svg", photographer: "Fabiano Conceição", texAlt: "Imagem de um menino de cabelo curto" },
+  { imageUrl: "/img/iguape/FabianoConceição-5.svg", photographer: "Fabiano Conceição", texAlt: "Imagem de um menino de cabelo longo" },
+  { imageUrl: "/img/iguape/FernandadeJesus-6.svg", photographer: "Fernanda de Jesus", texAlt: "Imagem de um menino de cabelo longo" }
 ];
 
 const Catalog = ({ photo, photographer, texAlt }) => {
